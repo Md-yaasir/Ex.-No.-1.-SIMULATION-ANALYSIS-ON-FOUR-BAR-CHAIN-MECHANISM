@@ -1,6 +1,7 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
+## REG-NO:212224040196
 
-## DATE: 
+## DATE: 15-04-25
 
 ## AIM:
 
@@ -53,6 +54,12 @@
 
 
 ## Output:
+![Screenshot 2025-04-15 114348](https://github.com/user-attachments/assets/927b4622-d212-49f4-8069-519810509ba1)
+![Screenshot 2025-04-15 114354](https://github.com/user-attachments/assets/538f73c0-acac-4101-8520-a6b2969f343a)
+![Screenshot 2025-04-15 114320](https://github.com/user-attachments/assets/175d6cfb-baef-4bbe-a456-c0a7f7633431)
+
+
+
 
 
 ### Name:
