@@ -1,5 +1,5 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
-## REG-NO:212224040196
+
 
 ## DATE: 15-04-25
 
@@ -55,8 +55,8 @@
 
 
 
-### Name:
-### Register Number: 
+### Name: MOHAMMED YAASIR . Y
+### Register Number: 212224040196
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
